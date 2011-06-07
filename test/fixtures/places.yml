@@ -1,0 +1,21 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  complete: false
+
+two:
+  name: MyString
+  complete: false
+
+# == Schema Information
+#
+# Table name: places
+#
+#  id         :integer         not null, primary key
+#  name       :string(255)
+#  complete   :boolean         default(FALSE)
+#  created_at :datetime
+#  updated_at :datetime
+#
+

@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/controllers/providers_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/get_new_providers.html.erb",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/models/provider.rb",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/helpers/application_helper.rb",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/Gemfile",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Initial DBWork/GreatMongoDB/get_all_quotes.rb",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/GreatCrawler/lib/get_quotes_from_page.rb",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Crawler and DB/Crawlerv2/lib/main.rb",
+		"/home/solomon/Dropbox/PlainText/To do/To do.txt",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Initial DBWork/GreatMongoDB/completed",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Initial DBWork/GreatMongoDB/initial_values_test",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Initial DBWork/GreatMongoDB/all_pages_to_search_5_2011.txt",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Crawler and DB/GreatCrawler/lib/main.rb",
+		"/home/solomon/Dropbox/Business/Websites/AwesomeQuote/Crawler and DB/AnemoneCrawl1/lib/main.rb",
+		"/home/solomon/Dropbox/PlainText/Notes/Blog Ideas.txt",
+		"/home/solomon/Dropbox/PlainText/Notes/Kids video.txt",
+		"/home/solomon/Programming/sqoot_projects/dealmap_api/get_deal_provider.rb",
+		"/home/solomon/Programming/sqoot_projects/dealmap_api/provider_functions.rb",
+		"/home/solomon/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/solomon/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/solomon/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/solomon/Programming/rails_projects/awesomequote/config/database.yml.old",
+		"/home/solomon/Programming/rails_projects/awesomequote/config/database.yml",
+		"/home/solomon/Programming/rails_projects/awesomequote/db/data.yml",
+		"/home/solomon/Programming/rails_projects/awesomequote/Gemfile",
+		"/home/solomon/Programming/rails_projects/awesomequote/public/stylesheets/custom.css",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/shared/_quote.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/show.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/controllers/authors_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/_javascript_tags.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/public/javascripts/application.js",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/_header.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/_proper_author.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/helpers/application_helper.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/controllers/application_controller.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/last_name.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/controllers/authors_controller.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/index.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/_sidebar.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/application.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/_quote.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/public/stylesheets/blueprint/src/typography.css",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/edit.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/db/migrate/20110523172430_add_cached_slug_to_authors.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/_author.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/models/author.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/controllers/quotes_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/edit.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/controllers/quotes_controller.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/models/quote.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/models/user.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/controllers/sessions_controller.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/_quote_fields.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/new.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/models/author_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/new.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/spec_helper.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/factories.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/helpers/sessions_helper.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/_author_fields.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/controllers/sessions_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/db/migrate/20110518212518_add_admin_to_users.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/db/migrate/20110516230059_add_quote_author_index.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/models/user_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/helpers/sessions_helper_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/config/initializers/omniauth.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/quotes/show.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/models/quote_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/authors/index.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/_debug_params.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/layouts/_flash_message.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/controllers/pages_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/shared/_error_messages.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/db/migrate/20110516203553_create_authors.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/app/views/shared/_searchbar.html.erb",
+		"/home/solomon/Programming/rails_projects/awesomequote/spec/helpers/authors_helper_spec.rb",
+		"/home/solomon/Programming/rails_projects/awesomequote/README",
+		"/home/solomon/Programming/rails_projects/awesomequote/public/index.html",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/public/images/rails.png",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/shared/_quoteoftheday.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/shared/_recommended_authors.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/shared/_recommended_categories.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/layouts/_footer.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/layouts/_stylesheets.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/config/routes.rb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/Gemfile",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/layouts/_header.html.erb",
+		"/home/solomon/Programming/design/awesomequote_design/awesomequote_design/app/views/layouts/_sidenav.html.erb",
+		"/home/solomon/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/views/layouts/application.html.erb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/controllers/pages_controller.rb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/config/routes.rb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/views/pages/effects.html.erb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/views/pages/jquery_basics.html.erb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/views/pages/ajax.html.erb",
+		"/home/solomon/Programming/jquery_tutorial/practice/jquery_practice/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/controllers/todos_controller.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/todos/new.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/public/stylesheets/custom.css",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/lists/show.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/models/todo.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/models/list.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/db/migrate/20110427154247_add_duedate_and_importance_to_todos.rb",
+		"/home/solomon/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/lists/index.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/shared/_todo_item.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/shared/_todo_feed.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/controllers/pages_controller.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/models/user.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/layouts/application.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/layouts/_flash_message.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/spec/models/list_spec.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/spec/models/todo_spec.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/spec/factories.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/spec/models/user_spec.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/controllers/lists_controller.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/db/migrate/20110411164141_create_todos.rb",
+		"/home/solomon/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/solomon/Programming/rails_projects/todo_app/db/schema.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/models/task.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/db/migrate/20110411160149_create_tasks.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/helpers/tasks_helper.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/layouts/_header.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/spec/controllers/lists_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/lists/_list_fields.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/lists/new.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/lists/edit.html.erb",
+		"/home/solomon/Programming/rails_projects/todo_app/Gemfile",
+		"/home/solomon/Programming/rails_projects/todo_app/app/views/layouts/_stylesheets.html.erb"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"task",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"todo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app"
+		]
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/controllers/providers_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2273,
+								2273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 1152,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/views/providers/get_new_providers.html.erb",
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/models/provider.rb",
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 89,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/solomon/Programming/sqoot_projects/dealmap_api/dealmap_provider_app/Gemfile",
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			0.490864799025,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"application.js",
+				"public/javascripts/application.js"
+			],
+			[
+				"task",
+				"app/models/task.rb"
+			],
+			[
+				".js",
+				"app/views/relationships/create.js.erb"
+			],
+			[
+				"logo",
+				"public/images/logo.png"
+			],
+			[
+				".rake",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"index",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"users/index",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"users_con",
+				"spec/controllers/users_controller_spec.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"lay",
+				"app/views/layouts/_header.html.erb"
+			]
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/solomon/Programming/rails_projects/first_app/first_rails_app.sublime-project"
+			]
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269,
+	"status_bar_visible": true
+}

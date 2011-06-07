@@ -1,4 +1,10 @@
 DealmapProviderApp::Application.routes.draw do
+  resources :places
+
+  resources :providers
+
+  match 'get_new_providers' => 'providers#get_new_providers'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

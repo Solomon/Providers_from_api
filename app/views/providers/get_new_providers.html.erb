@@ -1,0 +1,40 @@
+<h1>New providers</h1>
+
+Total Results : <%= @total_results %>
+City : <%= @city.name %>
+
+
+<h2> New Providers </h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @new_providers.each do |provider| %>
+  <tr>
+    <td><%= provider.name %></td>
+    
+  </tr>
+<% end %>
+</table>
+<h2> City Providers </h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+<% if !@city_providers.nil? %>
+	<% @city_providers.each do |provider| %>
+
+  <tr>
+    <td><%= provider %></td>
+    
+  </tr>
+  <% end %>
+<% end %>
+</table>
